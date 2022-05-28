@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+    font-size: xx-large;
+    background-color: palevioletred;
+
+}
+
+.links {
+    font-size: xx-large;
+}
+
+ol {
+    background-color: lightslategray;
+}
+
+h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.odd {
+    background-color: lightslategrey;
+}
